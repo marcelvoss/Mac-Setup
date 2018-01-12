@@ -35,6 +35,7 @@ sudo gem install carthage
 sudo gem install cocoapods
 
 # Mac App Store
+mas signin $1
 mas install 497799835 # Xcode
 mas install 443987910 # 1Password
 mas install 557168941 # Tweetbot
