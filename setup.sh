@@ -13,6 +13,7 @@ brew install speedtest-cli
 brew install cloc
 brew install pwgen
 brew install mas
+brew install graphviz
 
 # Cask
 brew cask install google-chrome
