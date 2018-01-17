@@ -34,6 +34,7 @@ brew cask install transmission
 sudo gem install jekyll
 sudo gem install carthage
 sudo gem install cocoapods
+sudo gem install faker
 
 # Mac App Store
 mas signin $1
