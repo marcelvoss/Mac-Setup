@@ -49,6 +49,7 @@ mas install 408981434 # iMovie
 mas install 421879749 # Rested
 mas install 775737590 # iA Writer
 mas install 1107421413 # 1Blocker
+mas install 410628904 # Wunderlist
 
 sudo reboot
 
