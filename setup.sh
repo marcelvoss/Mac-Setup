@@ -6,7 +6,16 @@ sudo softwareupdate -i -a
 # Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# Go
+echo "export GOPATH=$HOME/Go" >> ~/.bash_profile
+echo "export GOROOT=/usr/local/opt/go/libexec" >> ~/.bash_profile
+echo "export PATH=$PATH:$GOROOT/bin:$GOPATH/bin" >> ~/.bash_profile
+
+# Fastlane
+echo "export PATH=$HOME/.fastlane/bin:$PATH" >> ~/.bash_profile
+
 # Brew
+brew install go
 brew install ruby
 brew install python
 brew install speedtest-cli
@@ -35,6 +44,7 @@ sudo gem install jekyll
 sudo gem install carthage
 sudo gem install cocoapods
 sudo gem install faker
+sudo gem install bundler
 
 # Mac App Store
 mas signin $1
