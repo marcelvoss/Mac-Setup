@@ -61,6 +61,7 @@ mas install 421879749 # Rested
 mas install 775737590 # iA Writer
 mas install 1107421413 # 1Blocker
 mas install 410628904 # Wunderlist
+mas install 441258766 # Magnet
 
 sudo reboot
 
