@@ -29,7 +29,7 @@ brew cask install google-chrome
 brew cask install fastlane
 brew cask install visual-studio-code
 brew cask install spotify
-brew cask install whatsapp
+brew cask install franz
 brew cask install moneymoney
 brew cask install jetbrains-toolbox
 brew cask install dash
