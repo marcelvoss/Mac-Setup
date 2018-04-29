@@ -27,9 +27,9 @@ brew install graphviz
 # Cask
 brew cask install google-chrome
 brew cask install fastlane
+brew cask install kaleidoscope
 brew cask install visual-studio-code
 brew cask install spotify
-brew cask install franz
 brew cask install moneymoney
 brew cask install jetbrains-toolbox
 brew cask install dash
@@ -39,6 +39,8 @@ brew cask install tower
 brew cask install appcleaner
 brew cask install cyberduck
 brew cask install transmission
+brew cask install brisk
+brew cask install discord
 
 sudo gem install jekyll
 sudo gem install carthage
@@ -60,8 +62,10 @@ mas install 408981434 # iMovie
 mas install 421879749 # Rested
 mas install 775737590 # iA Writer
 mas install 1107421413 # 1Blocker
-mas install 410628904 # Wunderlist
 mas install 441258766 # Magnet
+mas install 1147396723 # WhatsApp
+mas install 1290932760 # LineX
+mas install 924726344 # Deliveries
 
 sudo reboot
 
