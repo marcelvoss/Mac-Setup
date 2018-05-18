@@ -23,6 +23,7 @@ brew install cloc
 brew install pwgen
 brew install mas
 brew install graphviz
+brew install chisel
 
 # Cask
 brew cask install google-chrome
