@@ -24,6 +24,7 @@ brew install pwgen
 brew install mas
 brew install graphviz
 brew install chisel
+brew install vapor/tap/vapor
 
 # Cask
 brew cask install google-chrome
