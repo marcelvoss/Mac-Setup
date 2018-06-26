@@ -29,6 +29,7 @@ brew install vapor/tap/vapor
 # Cask
 brew cask install google-chrome
 brew cask install fastlane
+brew cask install itsycal
 brew cask install kaleidoscope
 brew cask install visual-studio-code
 brew cask install spotify
