@@ -25,6 +25,7 @@ brew install mas
 brew install graphviz
 brew install chisel
 brew install vapor/tap/vapor
+brew install coreutils
 
 # Cask
 brew cask install google-chrome
@@ -43,7 +44,6 @@ brew cask install appcleaner
 brew cask install cyberduck
 brew cask install transmission
 brew cask install brisk
-brew cask install discord
 
 sudo gem install jekyll
 sudo gem install carthage
@@ -67,7 +67,6 @@ mas install 775737590 # iA Writer
 mas install 1107421413 # 1Blocker
 mas install 441258766 # Magnet
 mas install 1147396723 # WhatsApp
-mas install 1290932760 # LineX
 mas install 924726344 # Deliveries
 
 sudo reboot
